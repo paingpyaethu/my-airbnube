@@ -1,5 +1,3 @@
 export default function Home() {
-  return (
-    <div>Hello Airbnube</div>
-  )
+  return <div>Hello Airbnube</div>;
 }
